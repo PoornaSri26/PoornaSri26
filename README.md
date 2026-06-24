@@ -1,22 +1,25 @@
 <div align="center">
 
+✨ 🌸 Welcome to my digital garden 🌸 ✨
+
+<br>
+
 ```shell
 ~ neofetch
-> poornasri26@github
-> ─────────────────────────────────────────
+> ✨ poornasri26@github ✨
+> ══════════════════════════════════════════
 > OS       : macOS (Darwin), Windows 11
-> Kernel   : 23.0.0, NT 10.0
 > Shell    : zsh 5.9 + starship, PowerShell 7
 > Editor   : Neovim (LazyVim), VS Code
 > Terminal : kitty, Windows Terminal
 > Languages: TypeScript, Rust, Python, Go
 > Focus    : Distributed Systems, Cloud Native
-> Uptime   : Building resilient systems
-> ─────────────────────────────────────────
+> Uptime   : Building resilient systems 💖
+> ══════════════════════════════════════════
 > CPU      : Apple M2 / Intel i7
 > Memory   : 16GB DDR5 / 32GB LPDDR5
 > Disk     : NVMe SSD 1TB
-> ─────────────────────────────────────────
+> ══════════════════════════════════════════
 ```
 
 </div>
@@ -25,13 +28,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=6366f1&icon_color=6366f1&text_color=64748b&bg_color=00000000)](https://github.com/PoornaSri26)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=ec4899&icon_color=f472b6&text_color=8b5cf6&bg_color=00000000)](https://github.com/PoornaSri26)
 
 </div>
 
 <br>
 
-### 🛠 Tech & Tools
+### � Tech & Tools
 
 **Languages & Runtimes**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -59,17 +62,17 @@
 
 <br>
 
-### 🌱 Currently
+### � Currently
 
-- 🔭 Working on: Open source contributions and cloud-native applications
-- 🌱 Learning: Advanced system design and distributed systems
-- 💡 Exploring: AI/ML integration patterns
+- � Working on: Open source contributions and cloud-native applications
+- � Learning: Advanced system design and distributed systems
+- ✨ Exploring: AI/ML integration patterns
 - 📝 Writing: Technical blog posts and documentation
-- ⚡ Building: Microservices architecture with Rust and Go
+- 🎀 Building: Microservices architecture with Rust and Go
 
 <br>
 
-### 🚀 Featured Projects
+### 🦋 Featured Projects
 
 <!-- PROJECTS-START -->
 <!-- Add your projects here with this format:
@@ -95,22 +98,22 @@
 <br>
 
 <details>
-  <summary>📊 More stats & activity</summary>
+  <summary>🌸 More stats & activity</summary>
   
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=PoornaSri26&theme=transparent&hide_border=true&fire=6366f1&currStreakLabel=6366f1&currStreakNum=6366f1&sideLabels=64748b&sideNums=64748b" />
+    <img src="https://streak-stats.demolab.com?user=PoornaSri26&theme=transparent&hide_border=true&fire=ec4899&currStreakLabel=ec4899&currStreakNum=f472b6&sideLabels=8b5cf6&sideNums=8b5cf6" />
   </div>
   
   <br>
   
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaSri26&theme=transparent&hide_border=true&title_color=6366f1&text_color=64748b&bg_color=00000000&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaSri26&theme=transparent&hide_border=true&title_color=ec4899&text_color=8b5cf6&bg_color=00000000&layout=compact" />
   </div>
   
   <br>
   
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=flat&no-frame=true&margin-w=4&title_color=6366f1&text_color=64748b" />
+    <img src="https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=flat&no-frame=true&margin-w=4&title_color=ec4899&text_color=8b5cf6" />
   </div>
   
   <br>
@@ -123,7 +126,7 @@
 <br>
 
 <details>
-  <summary>📫 Connect & Support</summary>
+  <summary>� Connect & Support</summary>
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/poornasri26)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/poornasri26)
@@ -131,7 +134,7 @@
   
   <br>
   
-  If you find my work useful, consider supporting me:
+  If you find my work useful, consider supporting me 💖
   
   [![GitHub Sponsors](https://img.shields.io/badge/-Sponsor-EA4AAA?style=flat&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/PoornaSri26)
 </details>
@@ -139,7 +142,10 @@
 <br>
 
 <div align="center">
-  <i>Building the future, one commit at a time.</i>
+  <i>✨ Building the future, one commit at a time. ✨</i>
+  <br>
+  <br>
+  🌸 Thank you for visiting! 🌸
 </div>
 
 <!-- 
