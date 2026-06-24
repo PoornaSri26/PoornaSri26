@@ -1,4 +1,10 @@
-# PoornaSri26
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PoornaSri26&fontSize=50&fontAlign=50&animation=twinkling)
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Full-Stack+Engineer;Building+distributed+systems;Cloud-native+applications;Open+Source+Contributor)
+
+</div>
 
 Full-Stack Engineer building distributed systems and cloud-native applications.
 
@@ -6,22 +12,9 @@ Full-Stack Engineer building distributed systems and cloud-native applications.
 
 ## Tech Stack
 
-**Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
-**Frameworks**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-**Infrastructure**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,rust,go,python,react,nextjs,nodejs,docker,k8s,aws,terraform" />
+</div>
 
 ---
 
@@ -33,12 +26,14 @@ Microservices architecture with Rust and Go for cloud-native applications.
 
 ## Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [AdaptiveNet-RouterLab](https://github.com/PoornaSri26/AdaptiveNet-RouterLab) | Next-generation network routing simulator with real-time interactivity and dynamic visualization | TypeScript |
-| [blockchain-voting-system](https://github.com/PoornaSri26/blockchain-voting-system) | Government-Grade Blockchain Voting System | JavaScript |
-| [AI-Email-Spam-detector](https://github.com/PoornaSri26/AI-Email-Spam-detector) | Machine learning-based email spam detection system | Python |
-| [web3_project](https://github.com/PoornaSri26/web3_project) | Web3 decentralized application | JavaScript |
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=AdaptiveNet-RouterLab&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/AdaptiveNet-RouterLab)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=blockchain-voting-system&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/blockchain-voting-system)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=AI-Email-Spam-detector&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/AI-Email-Spam-detector)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=web3_project&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/web3_project)
+
+</div>
 
 ---
 
@@ -48,10 +43,59 @@ Microservices architecture with Rust and Go for cloud-native applications.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=666666&bg_color=00000000)](https://github.com/PoornaSri26)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=transparent&hide_border=true&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideLabels=666666&sideNums=666666)](https://github.com/PoornaSri26)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=flat&no-frame=true&margin-w=4&title_color=000000&text_color=666666)](https://github.com/PoornaSri26)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=github-compact)](https://github.com/PoornaSri26)
+
 </div>
 
 ---
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/poornasri26) · [Twitter](https://twitter.com/poornasri26) · [Email](mailto:poornasri26@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poornasri26)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/poornasri26)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornasri26@gmail.com)
+
+</div>
+
+---
+
+## Fun Facts
+
+⚡ I've written more YAML than actual code
+📚 Currently reading: "Designing Data-Intensive Applications"
+☕ Coffee > Sleep
+🌙 Dark mode only
+
+---
+
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Now Playing
+
+<!-- SPOTIFY-START -->
+<!-- SPOTIFY-END -->
+
+---
+
+## Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PoornaSri26/PoornaSri26/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PoornaSri26/PoornaSri26/blob/output/github-snake.svg" />
+  <img alt="snake animation" src="https://github.com/PoornaSri26/PoornaSri26/blob/output/github-snake.svg" />
+</picture>
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
