@@ -6,8 +6,6 @@
 
 </div>
 
-Full-Stack Engineer building distributed systems and cloud-native applications.
-
 ---
 
 ## Tech Stack
@@ -18,9 +16,13 @@ Full-Stack Engineer building distributed systems and cloud-native applications.
 
 ---
 
-## Currently Building
+## Current Status
 
-Microservices architecture with Rust and Go for cloud-native applications.
+🔭 Currently working on: Microservices architecture with Rust and Go
+🌱 Learning: Advanced system design and distributed systems
+👯 Looking to collaborate on: Open-source AI tools
+💬 Ask me about: TypeScript, System Design
+⚡ Fun fact: I've written more YAML than actual code
 
 ---
 
@@ -65,12 +67,12 @@ Microservices architecture with Rust and Go for cloud-native applications.
 
 ---
 
-## Fun Facts
+<div align="center">
 
-⚡ I've written more YAML than actual code
-📚 Currently reading: "Designing Data-Intensive Applications"
-☕ Coffee > Sleep
-🌙 Dark mode only
+📫 **Reach me at:** poornasri26@gmail.com
+💼 **Open to:** Freelance & Full-Time Roles
+
+</div>
 
 ---
 
@@ -85,6 +87,21 @@ Microservices architecture with Rust and Go for cloud-native applications.
 
 <!-- SPOTIFY-START -->
 <!-- SPOTIFY-END -->
+
+---
+
+## Fun Facts
+
+⚡ I've written more YAML than actual code
+📚 Currently reading: "Designing Data-Intensive Applications"
+☕ Coffee > Sleep
+🌙 Dark mode only
+
+---
+
+## Dev Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true)
 
 ---
 
