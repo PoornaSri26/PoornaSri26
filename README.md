@@ -31,6 +31,17 @@ Microservices architecture with Rust and Go for cloud-native applications.
 
 ---
 
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [AdaptiveNet-RouterLab](https://github.com/PoornaSri26/AdaptiveNet-RouterLab) | Next-generation network routing simulator with real-time interactivity and dynamic visualization | TypeScript |
+| [blockchain-voting-system](https://github.com/PoornaSri26/blockchain-voting-system) | Government-Grade Blockchain Voting System | JavaScript |
+| [AI-Email-Spam-detector](https://github.com/PoornaSri26/AI-Email-Spam-detector) | Machine learning-based email spam detection system | Python |
+| [web3_project](https://github.com/PoornaSri26/web3_project) | Web3 decentralized application | JavaScript |
+
+---
+
 ## Stats
 
 <div align="center">
