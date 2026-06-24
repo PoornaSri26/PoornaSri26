@@ -3,12 +3,20 @@
 ```shell
 ~ neofetch
 > poornasri26@github
-> -----------------------------------------
-> OS       : macOS, Windows
-> Shell    : zsh + starship
-> Editor   : VS Code, Neovim
-> Focus    : Full-Stack Development, Cloud Architecture
+> ─────────────────────────────────────────
+> OS       : macOS (Darwin), Windows 11
+> Kernel   : 23.0.0, NT 10.0
+> Shell    : zsh 5.9 + starship, PowerShell 7
+> Editor   : Neovim (LazyVim), VS Code
+> Terminal : kitty, Windows Terminal
+> Languages: TypeScript, Rust, Python, Go
+> Focus    : Distributed Systems, Cloud Native
 > Uptime   : Building resilient systems
+> ─────────────────────────────────────────
+> CPU      : Apple M2 / Intel i7
+> Memory   : 16GB DDR5 / 32GB LPDDR5
+> Disk     : NVMe SSD 1TB
+> ─────────────────────────────────────────
 ```
 
 </div>
@@ -25,13 +33,28 @@
 
 ### 🛠 Tech & Tools
 
+**Languages & Runtimes**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend & Frameworks**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**Backend & Infrastructure**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+**Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br>
@@ -42,6 +65,22 @@
 - 🌱 Learning: Advanced system design and distributed systems
 - 💡 Exploring: AI/ML integration patterns
 - 📝 Writing: Technical blog posts and documentation
+- ⚡ Building: Microservices architecture with Rust and Go
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+<!-- WAKATIME-START -->
+<!-- WAKATIME-END -->
+
+<br>
+
+<!-- SPOTIFY-START -->
+<!-- SPOTIFY-END -->
 
 <br>
 
@@ -56,6 +95,18 @@
   
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoornaSri26&theme=transparent&hide_border=true&title_color=6366f1&text_color=64748b&bg_color=00000000&layout=compact" />
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=flat&no-frame=true&margin-w=4&title_color=6366f1&text_color=64748b" />
+  </div>
+  
+  <br>
+  
+  <div align="center">
+    <img src="https://github-profile-3d-contrib.vercel.app/api/profile?login=PoornaSri26&theme=transparent&hide_border=true" />
   </div>
 </details>
 

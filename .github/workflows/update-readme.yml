@@ -22,6 +22,11 @@ jobs:
           COMMIT_MSG: 'Updated README with latest activity'
           GH_USERNAME: PoornaSri26
       
+      - name: Update blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/poornasri26"
+      
       - name: Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
