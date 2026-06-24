@@ -69,6 +69,16 @@
 
 <br>
 
+### 🚀 Featured Projects
+
+<!-- PROJECTS-START -->
+<!-- Add your projects here with this format:
+[![Project Name](https://img.shields.io/badge/-Project_Name-6366f1?style=flat&logo=data:image/svg+xml;base64,...)](https://github.com/username/repo)
+-->
+<!-- PROJECTS-END -->
+
+<br>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
