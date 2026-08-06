@@ -42,13 +42,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=000000&icon_color=000000&text_color=666666&bg_color=00000000)](https://github.com/PoornaSri26)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/PoornaSri26)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=transparent&hide_border=true&fire=000000&currStreakLabel=000000&currStreakNum=000000&sideLabels=666666&sideNums=666666)](https://github.com/PoornaSri26)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=tokyonight&hide_border=true)](https://github.com/PoornaSri26)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=flat&no-frame=true&margin-w=4&title_color=000000&text_color=666666)](https://github.com/PoornaSri26)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/PoornaSri26)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=github-compact)](https://github.com/PoornaSri26)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=tokyonight&hide_border=true)](https://github.com/PoornaSri26)
 
 </div>
 
