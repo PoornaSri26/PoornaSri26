@@ -22,7 +22,6 @@
 🌱 Learning: Advanced system design and distributed systems
 👯 Looking to collaborate on: Open-source AI tools
 💬 Ask me about: TypeScript, System Design
-⚡ Fun fact: I've written more YAML than actual code
 
 ---
 
@@ -76,42 +75,11 @@
 
 ---
 
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## Now Playing
-
-<!-- SPOTIFY-START -->
-<!-- SPOTIFY-END -->
-
----
-
-## Fun Facts
-
-⚡ I've written more YAML than actual code
-📚 Currently reading: "Designing Data-Intensive Applications"
-☕ Coffee > Sleep
-🌙 Dark mode only
-
----
-
-## Dev Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=transparent&hideBorder=true)
-
----
-
 ## Snake Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PoornaSri26/PoornaSri26/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PoornaSri26/PoornaSri26/blob/output/github-snake.svg" />
-  <img alt="snake animation" src="https://github.com/PoornaSri26/PoornaSri26/blob/output/github-snake.svg" />
-</picture>
+<div align="center">
+![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-dark.svg)
+</div>
 
 ---
 
