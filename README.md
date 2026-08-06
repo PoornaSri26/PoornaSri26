@@ -78,7 +78,13 @@
 ## Snake Animation
 
 <div align="center">
-![Snake Animation](https://github.com/PoornaSri26/PoornaSri26/blob/main/github-snake-dark.svg)
+<!-- Default Theme -->
+<!--![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake.svg)
+
+<!-- Uncomment the theme you prefer: -->
+
+<!-- 🌑 Dark Theme -->
+![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
