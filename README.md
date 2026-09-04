@@ -66,7 +66,7 @@
 
 <div align="center">
 <!-- 🌑 Dark Theme -->
-![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-pink.svg)
+![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
