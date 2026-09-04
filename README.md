@@ -25,19 +25,6 @@
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=AdaptiveNet-RouterLab&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/AdaptiveNet-RouterLab)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=blockchain-voting-system&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/blockchain-voting-system)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=AI-Email-Spam-detector&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/AI-Email-Spam-detector)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PoornaSri26&repo=web3_project&theme=transparent&hide_border=true)](https://github.com/PoornaSri26/web3_project)
-
-</div>
-
----
-
 ## Stats
 
 <div align="center">
