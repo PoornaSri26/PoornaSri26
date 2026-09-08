@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=bottom&customColorList=255,105,180,138,43,226" alt="Divider" />
 </div>
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&width=435&lines=Full-Stack+Engineer;AI/ML+Enthusiast;Open+Source+Contributor;Cloud+Native+Architect;Distributed+Systems;Tech+Innovator)
+
+</div>
+
 ---
 
 <div align="center">
