@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PoornaSri26&fontSize=50&fontAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PoornaSri26&fontSize=50&fontAlign=50&animation=twinkling&customColorList=0,200,150,100)
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Full-Stack+Engineer;Building+distributed+systems;Cloud-native+applications;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff69b4&width=435&lines=Full-Stack+Engineer;Building+distributed+systems;Cloud-native+applications;Open+Source+Contributor)
 
 </div>
 
@@ -29,13 +29,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/PoornaSri26)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117)](https://github.com/PoornaSri26)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=tokyonight&hide_border=true)](https://github.com/PoornaSri26)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=radical&hide_border=true&fire=ff69b4&currStreakLabel=ff69b4&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff)](https://github.com/PoornaSri26)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/PoornaSri26)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=radical&no-frame=true&margin-w=4&title=💻,🏆,⚡,🔥,🚀,💡,🎯,🌟)](https://github.com/PoornaSri26)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=tokyonight&hide_border=true)](https://github.com/PoornaSri26)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=radical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff)](https://github.com/PoornaSri26)
 
 </div>
 
@@ -65,7 +65,6 @@
 ## Snake Animation
 
 <div align="center">
-<!-- 🌑 Dark Theme -->
 ![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-dark.svg)
 </div>
 
