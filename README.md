@@ -65,7 +65,7 @@
 ## Snake Animation
 
 <div align="center">
-![Snake Animation](https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-pink.svg)
+<img src="https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-pink.svg" alt="Snake Animation" width="800" />
 </div>
 
 ---
