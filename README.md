@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Poorna Sri&fontSize=50&fontAlign=50&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PoornaSri&fontSize=50&fontAlign=50&animation=twinkling)
 
 <div align="center">
 
