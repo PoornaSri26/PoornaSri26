@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PoornaSri26&fontSize=50&fontAlign=50&animation=twinkling&customColorList=0,200,150,100)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PoornaSri26&fontSize=50&fontAlign=50&animation=twinkling&customColorList=255,105,180,0,191,255)
 
 <div align="center">
 
@@ -29,13 +29,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117)](https://github.com/PoornaSri26)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PoornaSri26&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=ffffff&border_radius=10)](https://github.com/PoornaSri26)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=radical&hide_border=true&fire=ff69b4&currStreakLabel=ff69b4&currStreakNum=ffffff&sideLabels=ffffff&sideNums=ffffff)](https://github.com/PoornaSri26)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PoornaSri26&theme=radical&hide_border=true&fire=ff69b4&currStreakLabel=ff69b4&currStreakNum=000000&sideLabels=000000&sideNums=000000&background=ffffff&border_radius=10)](https://github.com/PoornaSri26)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=radical&no-frame=true&margin-w=4&title=💻,🏆,⚡,🔥,🚀,💡,🎯,🌟)](https://github.com/PoornaSri26)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PoornaSri26&theme=radical&no-frame=true&margin-w=4&title=💻,🏆,⚡,🔥,🚀,💡,🎯,🌟&bg_color=ffffff&border_radius=10)](https://github.com/PoornaSri26)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=radical&hide_border=true&bg_color=0d1117&color=ff69b4&line=ff69b4&point=ffffff)](https://github.com/PoornaSri26)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PoornaSri26&theme=radical&hide_border=true&bg_color=ffffff&color=ff69b4&line=ff69b4&point=000000&radius=10)](https://github.com/PoornaSri26)
 
 </div>
 
@@ -45,9 +45,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/poornasri26)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/poornasri26)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poornasri26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=ffffff)](https://linkedin.com/in/poornasri26)
+[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=ffffff)](https://twitter.com/poornasri26)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ffffff)](mailto:poornasri26@gmail.com)
 
 </div>
 
@@ -65,9 +65,9 @@
 ## Snake Animation
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-white.svg" alt="Snake Animation" width="800" />
+<img src="https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/output/github-contribution-grid-snake-pink.svg" alt="Snake Animation" width="900" />
 </div>
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&customColorList=255,105,180,0,191,255)
