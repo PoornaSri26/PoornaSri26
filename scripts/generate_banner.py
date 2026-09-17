@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
 
 """
-Generate a premium animated SVG GitHub profile banner.
+Generate a premium static SVG GitHub profile banner.
 
 Design language:
 - High-end developer / AI engineer
 - Minimal dark interface
 - Glassmorphism
 - Terminal-inspired identity
-- Animated data streams
 - Circuit architecture
 - Orbital system visualization
-- Typewriter terminal
-- Subtle scanline
+- Static (no animations for GitHub compatibility)
 - No emojis
 
 Output:
@@ -77,7 +75,7 @@ def create_animated_banner():
     status = escape(config["status"])
 
     # ============================================================
-    # SVG
+    # SVG (Static version for GitHub compatibility)
     # ============================================================
 
     svg = f"""<?xml version="1.0" encoding="UTF-8"?>
@@ -239,48 +237,6 @@ def create_animated_banner():
 
 
     <!-- ========================================================
-         TERMINAL TYPING MASK
-         ======================================================== -->
-
-    <clipPath id="typingMask">
-
-        <rect
-            x="105"
-            y="288"
-            width="0"
-            height="24"
-        >
-
-            <animate
-                attributeName="width"
-                values="
-                    0;
-                    0;
-                    80;
-                    280;
-                    560;
-                    560;
-                    0
-                "
-                keyTimes="
-                    0;
-                    0.10;
-                    0.18;
-                    0.36;
-                    0.58;
-                    0.86;
-                    1
-                "
-                dur="12s"
-                repeatCount="indefinite"
-            />
-
-        </rect>
-
-    </clipPath>
-
-
-    <!-- ========================================================
          RADIAL GLOW (Enhanced with pink)
          ======================================================== -->
 
@@ -318,39 +274,6 @@ def create_animated_banner():
         />
 
     </radialGradient>
-
-
-    <!-- ========================================================
-         SCANLINE
-         ======================================================== -->
-
-    <linearGradient
-        id="scanGradient"
-        x1="0"
-        y1="0"
-        x2="0"
-        y2="1"
-    >
-
-        <stop
-            offset="0"
-            stop-color="{config['cyan']}"
-            stop-opacity="0"
-        />
-
-        <stop
-            offset="0.5"
-            stop-color="{config['pink']}"
-            stop-opacity="0.12"
-        />
-
-        <stop
-            offset="1"
-            stop-color="{config['cyan']}"
-            stop-opacity="0"
-        />
-
-    </linearGradient>
 
 </defs>
 
@@ -399,16 +322,7 @@ def create_animated_banner():
     r="110"
     fill="{config['purple']}"
     opacity="0.025"
->
-
-    <animate
-        attributeName="r"
-        values="100;130;100"
-        dur="9s"
-        repeatCount="indefinite"
-    />
-
-</circle>
+/>
 
 
 <!-- ============================================================
@@ -452,16 +366,7 @@ def create_animated_banner():
         r="4"
         fill="{config['green']}"
         filter="url(#glowSoft)"
-    >
-
-        <animate
-            attributeName="opacity"
-            values="1;0.35;1"
-            dur="2s"
-            repeatCount="indefinite"
     />
-
-    </circle>
 
 
     <text
@@ -536,16 +441,7 @@ def create_animated_banner():
         height="2"
         rx="1"
         fill="url(#accentGradient)"
-    >
-
-        <animate
-            attributeName="width"
-            values="90;250;90"
-            dur="6s"
-            repeatCount="indefinite"
-        />
-
-    </rect>
+    />
 
 
     <!-- HEADLINE -->
@@ -627,46 +523,32 @@ def create_animated_banner():
 
     <!-- Terminal command -->
 
-    <g clip-path="url(#typingMask)">
+    <text
+        x="103"
+        y="307"
+        fill="{config['cyan']}"
+        font-family="JetBrains Mono, Fira Code, monospace"
+        font-size="13"
+        font-weight="600"
+    >
 
-        <text
-            x="103"
-            y="307"
-            fill="{config['cyan']}"
-            font-family="JetBrains Mono, Fira Code, monospace"
-            font-size="13"
-            font-weight="600"
-        >
+        &gt; stack:
+        <tspan fill="{config['white']}">
+            {stack}
+        </tspan>
 
-            &gt; stack:
-            <tspan fill="{config['white']}">
-                {stack}
-            </tspan>
-
-        </text>
-
-    </g>
+    </text>
 
 
     <!-- Cursor -->
 
     <rect
-        x="108"
+        x="570"
         y="294"
         width="7"
         height="16"
         fill="{config['pink']}"
-        opacity="1"
-    >
-
-        <animate
-            attributeName="opacity"
-            values="1;0;1"
-            dur="0.9s"
-            repeatCount="indefinite"
-        />
-
-    </rect>
+    />
 
 </g>
 
@@ -699,18 +581,7 @@ def create_animated_banner():
         stroke-opacity="0.10"
         stroke-width="1"
         stroke-dasharray="2 10"
-    >
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="0"
-            to="360"
-            dur="28s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <!-- Middle orbital -->
@@ -724,18 +595,7 @@ def create_animated_banner():
         stroke-opacity="0.20"
         stroke-width="1"
         stroke-dasharray="6 7"
-    >
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="360"
-            to="0"
-            dur="18s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <!-- Inner orbital -->
@@ -748,16 +608,7 @@ def create_animated_banner():
         stroke="{config['purple']}"
         stroke-opacity="0.20"
         stroke-width="1"
-    >
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="0"
-            to="360"
-            dur="11s"
-            repeatCount="indefinite"
-        </circle>
+    />
 
 
     <!-- Architecture lines -->
@@ -780,48 +631,31 @@ def create_animated_banner():
     </g>
 
 
-    <!-- Rotating data nodes -->
+    <!-- Data nodes -->
 
-    <g>
+    <circle
+        cx="98"
+        cy="0"
+        r="5"
+        fill="{config['cyan']}"
+        filter="url(#glowSoft)"
+    />
 
-        <g>
+    <circle
+        cx="-98"
+        cy="0"
+        r="4"
+        fill="{config['hot_pink']}"
+        filter="url(#glowPink)"
+    />
 
-            <circle
-                cx="98"
-                cy="0"
-                r="5"
-                fill="{config['cyan']}"
-                filter="url(#glowSoft)"
-            />
-
-            <circle
-                cx="-98"
-                cy="0"
-                r="4"
-                fill="{config['hot_pink']}"
-                filter="url(#glowPink)"
-            />
-
-            <circle
-                cx="0"
-                cy="-132"
-                r="4"
-                fill="{config['blue']}"
-                filter="url(#glowSoft)"
-            />
-
-            <animateTransform
-                attributeName="transform"
-                type="rotate"
-                from="0"
-                to="360"
-                dur="16s"
-                repeatCount="indefinite"
-            />
-
-        </g>
-
-    </g>
+    <circle
+        cx="0"
+        cy="-132"
+        r="4"
+        fill="{config['blue']}"
+        filter="url(#glowSoft)"
+    />
 
 
     <!-- Core -->
@@ -842,16 +676,7 @@ def create_animated_banner():
         r="9"
         fill="{config['pink']}"
         filter="url(#glowPink)"
-    >
-
-        <animate
-            attributeName="r"
-            values="7;11;7"
-            dur="2.5s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <!-- Core rings -->
@@ -863,23 +688,7 @@ def create_animated_banner():
         fill="none"
         stroke="{config['pink']}"
         stroke-opacity="0.15"
-    >
-
-        <animate
-            attributeName="r"
-            values="32;45;32"
-            dur="3s"
-            repeatCount="indefinite"
-        />
-
-        <animate
-            attributeName="opacity"
-            values="0.5;0;0.5"
-            dur="3s"
-            repeatCount="indefinite"
-        </animate>
-
-    </circle>
+    />
 
 </g>
 
@@ -908,16 +717,7 @@ def create_animated_banner():
         r="3"
         fill="{config['green']}"
         filter="url(#glowSoft)"
-    >
-
-        <animate
-            attributeName="opacity"
-            values="1;0.3;1"
-            dur="1.8s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <text
@@ -1000,80 +800,6 @@ def create_animated_banner():
 
 
 <!-- ============================================================
-     ANIMATED SCANLINE
-     ============================================================ -->
-
-<rect
-    x="25"
-    y="-50"
-    width="1230"
-    height="35"
-    fill="url(#scanGradient)"
-    opacity="0.35"
->
-
-    <animate
-        attributeName="y"
-        values="-50;430"
-        dur="7s"
-        repeatCount="indefinite"
-    />
-
-</rect>
-
-
-<!-- ============================================================
-     MOVING DATA PARTICLES
-     ============================================================ -->
-
-<g
-    fill="{config['cyan']}"
-    opacity="0.5"
->
-
-    <circle cx="820" cy="90" r="1.5">
-        <animate
-            attributeName="cy"
-            values="90;330;90"
-            dur="8s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-
-    <circle cx="870" cy="340" r="1">
-        <animate
-            attributeName="cy"
-            values="340;80;340"
-            dur="11s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-
-    <circle cx="1160" cy="100" r="1.5">
-        <animate
-            attributeName="cy"
-            values="100;350;100"
-            dur="9s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-
-    <circle cx="930" cy="70" r="1">
-        <animate
-            attributeName="cx"
-            values="930;1190;930"
-            dur="13s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-</g>
-
-
-<!-- ============================================================
      CORNER DETAILS
      ============================================================ -->
 
@@ -1106,7 +832,7 @@ def create_animated_banner():
     with open(output_path, "w", encoding="utf-8") as file:
         file.write(svg)
 
-    print(f"Animated banner generated: {output_path}")
+    print(f"Static banner generated: {output_path}")
 
     return output_path
 

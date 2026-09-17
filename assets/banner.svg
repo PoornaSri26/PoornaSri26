@@ -157,48 +157,6 @@
 
 
     <!-- ========================================================
-         TERMINAL TYPING MASK
-         ======================================================== -->
-
-    <clipPath id="typingMask">
-
-        <rect
-            x="105"
-            y="288"
-            width="0"
-            height="24"
-        >
-
-            <animate
-                attributeName="width"
-                values="
-                    0;
-                    0;
-                    80;
-                    280;
-                    560;
-                    560;
-                    0
-                "
-                keyTimes="
-                    0;
-                    0.10;
-                    0.18;
-                    0.36;
-                    0.58;
-                    0.86;
-                    1
-                "
-                dur="12s"
-                repeatCount="indefinite"
-            />
-
-        </rect>
-
-    </clipPath>
-
-
-    <!-- ========================================================
          RADIAL GLOW (Enhanced with pink)
          ======================================================== -->
 
@@ -236,39 +194,6 @@
         />
 
     </radialGradient>
-
-
-    <!-- ========================================================
-         SCANLINE
-         ======================================================== -->
-
-    <linearGradient
-        id="scanGradient"
-        x1="0"
-        y1="0"
-        x2="0"
-        y2="1"
-    >
-
-        <stop
-            offset="0"
-            stop-color="#00E5FF"
-            stop-opacity="0"
-        />
-
-        <stop
-            offset="0.5"
-            stop-color="#FF69B4"
-            stop-opacity="0.12"
-        />
-
-        <stop
-            offset="1"
-            stop-color="#00E5FF"
-            stop-opacity="0"
-        />
-
-    </linearGradient>
 
 </defs>
 
@@ -317,16 +242,7 @@
     r="110"
     fill="#8B5CF6"
     opacity="0.025"
->
-
-    <animate
-        attributeName="r"
-        values="100;130;100"
-        dur="9s"
-        repeatCount="indefinite"
-    />
-
-</circle>
+/>
 
 
 <!-- ============================================================
@@ -370,16 +286,7 @@
         r="4"
         fill="#2DD4BF"
         filter="url(#glowSoft)"
-    >
-
-        <animate
-            attributeName="opacity"
-            values="1;0.35;1"
-            dur="2s"
-            repeatCount="indefinite"
     />
-
-    </circle>
 
 
     <text
@@ -454,16 +361,7 @@
         height="2"
         rx="1"
         fill="url(#accentGradient)"
-    >
-
-        <animate
-            attributeName="width"
-            values="90;250;90"
-            dur="6s"
-            repeatCount="indefinite"
-        />
-
-    </rect>
+    />
 
 
     <!-- HEADLINE -->
@@ -545,46 +443,32 @@
 
     <!-- Terminal command -->
 
-    <g clip-path="url(#typingMask)">
+    <text
+        x="103"
+        y="307"
+        fill="#00E5FF"
+        font-family="JetBrains Mono, Fira Code, monospace"
+        font-size="13"
+        font-weight="600"
+    >
 
-        <text
-            x="103"
-            y="307"
-            fill="#00E5FF"
-            font-family="JetBrains Mono, Fira Code, monospace"
-            font-size="13"
-            font-weight="600"
-        >
+        &gt; stack:
+        <tspan fill="#F5F7FA">
+            React  ·  TypeScript  ·  Python  ·  Node.js  ·  PyTorch  ·  Docker
+        </tspan>
 
-            &gt; stack:
-            <tspan fill="#F5F7FA">
-                React  ·  TypeScript  ·  Python  ·  Node.js  ·  PyTorch  ·  Docker
-            </tspan>
-
-        </text>
-
-    </g>
+    </text>
 
 
     <!-- Cursor -->
 
     <rect
-        x="108"
+        x="570"
         y="294"
         width="7"
         height="16"
         fill="#FF69B4"
-        opacity="1"
-    >
-
-        <animate
-            attributeName="opacity"
-            values="1;0;1"
-            dur="0.9s"
-            repeatCount="indefinite"
-        />
-
-    </rect>
+    />
 
 </g>
 
@@ -617,18 +501,7 @@
         stroke-opacity="0.10"
         stroke-width="1"
         stroke-dasharray="2 10"
-    >
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="0"
-            to="360"
-            dur="28s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <!-- Middle orbital -->
@@ -642,18 +515,7 @@
         stroke-opacity="0.20"
         stroke-width="1"
         stroke-dasharray="6 7"
-    >
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="360"
-            to="0"
-            dur="18s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <!-- Inner orbital -->
@@ -666,16 +528,7 @@
         stroke="#8B5CF6"
         stroke-opacity="0.20"
         stroke-width="1"
-    >
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="0"
-            to="360"
-            dur="11s"
-            repeatCount="indefinite"
-        </circle>
+    />
 
 
     <!-- Architecture lines -->
@@ -698,48 +551,31 @@
     </g>
 
 
-    <!-- Rotating data nodes -->
+    <!-- Data nodes -->
 
-    <g>
+    <circle
+        cx="98"
+        cy="0"
+        r="5"
+        fill="#00E5FF"
+        filter="url(#glowSoft)"
+    />
 
-        <g>
+    <circle
+        cx="-98"
+        cy="0"
+        r="4"
+        fill="#FF1493"
+        filter="url(#glowPink)"
+    />
 
-            <circle
-                cx="98"
-                cy="0"
-                r="5"
-                fill="#00E5FF"
-                filter="url(#glowSoft)"
-            />
-
-            <circle
-                cx="-98"
-                cy="0"
-                r="4"
-                fill="#FF1493"
-                filter="url(#glowPink)"
-            />
-
-            <circle
-                cx="0"
-                cy="-132"
-                r="4"
-                fill="#4D7CFE"
-                filter="url(#glowSoft)"
-            />
-
-            <animateTransform
-                attributeName="transform"
-                type="rotate"
-                from="0"
-                to="360"
-                dur="16s"
-                repeatCount="indefinite"
-            />
-
-        </g>
-
-    </g>
+    <circle
+        cx="0"
+        cy="-132"
+        r="4"
+        fill="#4D7CFE"
+        filter="url(#glowSoft)"
+    />
 
 
     <!-- Core -->
@@ -760,16 +596,7 @@
         r="9"
         fill="#FF69B4"
         filter="url(#glowPink)"
-    >
-
-        <animate
-            attributeName="r"
-            values="7;11;7"
-            dur="2.5s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <!-- Core rings -->
@@ -781,23 +608,7 @@
         fill="none"
         stroke="#FF69B4"
         stroke-opacity="0.15"
-    >
-
-        <animate
-            attributeName="r"
-            values="32;45;32"
-            dur="3s"
-            repeatCount="indefinite"
-        />
-
-        <animate
-            attributeName="opacity"
-            values="0.5;0;0.5"
-            dur="3s"
-            repeatCount="indefinite"
-        </animate>
-
-    </circle>
+    />
 
 </g>
 
@@ -826,16 +637,7 @@
         r="3"
         fill="#2DD4BF"
         filter="url(#glowSoft)"
-    >
-
-        <animate
-            attributeName="opacity"
-            values="1;0.3;1"
-            dur="1.8s"
-            repeatCount="indefinite"
-        />
-
-    </circle>
+    />
 
 
     <text
@@ -913,80 +715,6 @@
     >
         ACTIVE
     </text>
-
-</g>
-
-
-<!-- ============================================================
-     ANIMATED SCANLINE
-     ============================================================ -->
-
-<rect
-    x="25"
-    y="-50"
-    width="1230"
-    height="35"
-    fill="url(#scanGradient)"
-    opacity="0.35"
->
-
-    <animate
-        attributeName="y"
-        values="-50;430"
-        dur="7s"
-        repeatCount="indefinite"
-    />
-
-</rect>
-
-
-<!-- ============================================================
-     MOVING DATA PARTICLES
-     ============================================================ -->
-
-<g
-    fill="#00E5FF"
-    opacity="0.5"
->
-
-    <circle cx="820" cy="90" r="1.5">
-        <animate
-            attributeName="cy"
-            values="90;330;90"
-            dur="8s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-
-    <circle cx="870" cy="340" r="1">
-        <animate
-            attributeName="cy"
-            values="340;80;340"
-            dur="11s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-
-    <circle cx="1160" cy="100" r="1.5">
-        <animate
-            attributeName="cy"
-            values="100;350;100"
-            dur="9s"
-            repeatCount="indefinite"
-        />
-    </circle>
-
-
-    <circle cx="930" cy="70" r="1">
-        <animate
-            attributeName="cx"
-            values="930;1190;930"
-            dur="13s"
-            repeatCount="indefinite"
-        />
-    </circle>
 
 </g>
 
