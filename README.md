@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/main/assets/banner.svg" alt="Poorna Sri - Personalized Animated Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/PoornaSri26/PoornaSri26/main/assets/banner.gif" alt="Poorna Sri - Personalized Animated Banner" width="100%" />
 </div>
 
 ---
