@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="assets/banner.png" alt="Poorna Sri - Personalized Banner" width="100%" />
+  <img src="assets/banner.svg" alt="Poorna Sri - Personalized Animated Banner" width="100%" />
 </div>
 
 ---

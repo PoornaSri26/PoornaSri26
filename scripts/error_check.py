@@ -45,10 +45,15 @@ def check_image_links():
     with open('README.md', 'r', encoding='utf-8') as f:
         readme_content = f.read()
     
-    # Extract all image URLs
+    # Extract all image URLs (including SVG files)
     image_links = re.findall(r'https://[^\s\)]+\.(?:png|jpg|jpeg|gif|svg)', readme_content)
     
+    # Also check local assets
+    local_images = re.findall(r'assets/[^\s\)]+\.(?:png|jpg|jpeg|gif|svg)', readme_content)
+    
     broken_images = []
+    
+    # Check external URLs
     for link in image_links:
         try:
             response = requests.head(link, timeout=5)
@@ -65,6 +70,12 @@ def check_image_links():
             except Exception as e2:
                 broken_images.append(link)
                 print(f"Error checking {link}: {e2}")
+    
+    # Check local files
+    for local_img in local_images:
+        if not os.path.exists(local_img):
+            broken_images.append(local_img)
+            print(f"Missing local image: {local_img}")
     
     if not broken_images:
         print("All image links are valid!")
@@ -156,7 +167,7 @@ def generate_error_report():
     
     all_passed = True
     for check, passed in results.items():
-        status = "✓ PASSED" if passed else "✗ FAILED"
+        status = "PASSED" if passed else "FAILED"
         print(f"{check}: {status}")
         if not passed:
             all_passed = False

@@ -1,21 +1,4 @@
-#!/usr/bin/env python3
-"""
-Generate personalized animated SVG banner for GitHub profile
-"""
-
-import os
-
-def create_animated_banner():
-    """Create a personalized animated SVG banner"""
-    
-    # User information - customize these
-    name = "POORNA SRI"
-    role = "Full Stack Engineer / AI/ML Enthusiast / Tech Innovator"
-    tech_stack = "React, TypeScript, Python, Node.js, AI/ML"
-    location = "Hyderabad, India"
-    
-    # SVG template with animations
-    svg_content = f'''<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="400" viewBox="0 0 1200 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
       <animate attributeName="x1" values="0;0.15;0" keyTimes="0;0.5;1" dur="8s" repeatCount="indefinite"/>
@@ -68,7 +51,7 @@ def create_animated_banner():
   <g clip-path="url(#titleClip)">
     <text x="55" y="182" font-family="'Courier New', monospace" font-size="48" font-weight="700"
           letter-spacing="2" fill="#4B0082" filter="url(#softGlow)">
-      {name}
+      POORNA SRI
       <animate attributeName="opacity" calcMode="discrete"
                keyTimes="0;0.05;0.053;0.056;0.06;1"
                values="1;1;0.3;1;1;1" dur="8s" repeatCount="indefinite"/>
@@ -83,7 +66,7 @@ def create_animated_banner():
 
   <!-- subtitle fade-up -->
   <text x="55" y="232" font-family="Arial, sans-serif" font-size="15.5" fill="#3A0060" opacity="0">
-    {role}
+    Full Stack Engineer / AI/ML Enthusiast / Tech Innovator
     <animate attributeName="opacity" keyTimes="0;0.175;0.25;1" values="0;0;1;1" dur="8s" repeatCount="indefinite"/>
     <animateTransform attributeName="transform" type="translate"
       keyTimes="0;0.175;0.25;1" values="0,15;0,15;0,0;0,0" dur="8s" repeatCount="indefinite"/>
@@ -92,7 +75,7 @@ def create_animated_banner():
   <!-- terminal stack line -->
   <g clip-path="url(#termClip)">
     <text x="55" y="262" font-family="'Courier New', monospace" font-size="15.5" fill="#2E0854">
-      &gt; Stack: {tech_stack}
+      &gt; Stack: React, TypeScript, Python, Node.js, AI/ML
     </text>
   </g>
   <!-- blinking cursor -->
@@ -161,7 +144,7 @@ def create_animated_banner():
       <animate attributeName="fill" values="#00E676;#FF69B4;#00E676" keyTimes="0;0.5;1" dur="2s" repeatCount="indefinite"/>
     </circle>
     <text x="962" y="349" font-family="'Courier New', monospace" font-size="13" fill="#3A0060">SYS_STATUS: ACTIVE</text>
-    <text x="950" y="368" font-family="'Courier New', monospace" font-size="12" fill="#3A0060" opacity="0.8">[{location}]</text>
+    <text x="950" y="368" font-family="'Courier New', monospace" font-size="12" fill="#3A0060" opacity="0.8">[Hyderabad, India]</text>
   </g>
 
   <!-- ===================== CORNER ACCENTS ===================== -->
@@ -201,18 +184,4 @@ def create_animated_banner():
       <animate attributeName="opacity" keyTimes="0;0.1;0.9;1" values="0;0.4;0.4;0" dur="8s" begin="-6.6s" repeatCount="indefinite"/>
     </circle>
   </g>
-</svg>'''
-    
-    # Ensure assets directory exists
-    os.makedirs('assets', exist_ok=True)
-    
-    # Save SVG file
-    svg_path = 'assets/banner.svg'
-    with open(svg_path, 'w', encoding='utf-8') as f:
-        f.write(svg_content)
-    
-    print(f"Animated SVG banner generated successfully at {svg_path}!")
-    return svg_path
-
-if __name__ == '__main__':
-    create_animated_banner()
+</svg>
