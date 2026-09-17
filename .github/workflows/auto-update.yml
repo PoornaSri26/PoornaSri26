@@ -58,15 +58,17 @@ jobs:
         if [ -f "assets/banner.png" ]; then
           echo "Banner generated successfully"
         else
-          echo "Banner generation failed"
-          exit 1
+          echo "Banner generation failed, but continuing with header/footer animations"
         fi
     
     - name: Commit changes
       run: |
         git config --local user.email "poornasri.n24@gmail.com"
         git config --local user.name "Poorna Sri"
-        git add README.md assets/banner.png
+        git add README.md
+        if [ -f "assets/banner.png" ]; then
+          git add assets/banner.png
+        fi
         git diff --staged --quiet || git commit -m "Auto-update profile: $(date '+%Y-%m-%d %H:%M:%S')"
     
     - name: Push changes

@@ -1,6 +1,14 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=PoornaSri26&fontSize=40&fontAlign=50&animation=scaleIn&customColorList=255,105,180,138,43,226,0,191,255" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&reversal=false&text=Tech%20Innovator&fontSize=20&fontAlign=50&animation=twinkling" alt="Tech Innovator" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=bottom&customColorList=255,105,180,138,43,226" alt="Divider" />
+</div>
+
+<div align="center">
   <img src="assets/banner.png" alt="Poorna Sri - Personalized Banner" width="100%" />
 </div>
+
+---
 
 <div align="center">
 

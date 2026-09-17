@@ -104,7 +104,10 @@ def generate_project_table(repos):
         languages = get_repo_languages(repo)
         category = categorize_repo(repo)
         
-        table += f"| **[{name}](https://github.com/{GITHUB_USERNAME}/{name})** <br> <sub>[{category}]</sub> | **{description}**<br>• Latest updates and active development<br>• Community-driven improvements<br>• Open source contributions welcome | {languages} | `Active` |\n"
+        # Create more detailed description
+        detailed_desc = f"**{description}**<br>• Active development with regular updates<br>• Open source with community contributions<br>• Modern architecture and best practices"
+        
+        table += f"| **[{name}](https://github.com/{GITHUB_USERNAME}/{name})** <br> <sub>[{category}]</sub> | {detailed_desc} | {languages} | `Active` |\n"
     
     return table
 
@@ -122,10 +125,10 @@ def update_readme():
     with open('README.md', 'r', encoding='utf-8') as f:
         readme_content = f.read()
     
-    # Replace the project table section
+    # Replace the project table section (preserve header/footer animations)
     import re
-    pattern = r'\|\| Project / Codebase \| Technical Narrative & Observations \| Core Stack \| Status \|\|.*?\|\| :--- \|\| :--- \|\| :--- \|\|.*?(?=\n---)'
-    replacement = project_table + '\n---'
+    pattern = r'## ✦ Active Dossiers // Major Projects.*?(?=\n---\n\n## ✦ Technical Arsenal)'
+    replacement = f'## ✦ Active Dossiers // Major Projects\n\n{project_table}\n\n---\n\n## ✦ Technical Arsenal'
     
     updated_content = re.sub(pattern, replacement, readme_content, flags=re.DOTALL)
     
