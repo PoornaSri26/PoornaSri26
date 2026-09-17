@@ -1,0 +1,4 @@
+# Keep the directory but ignore temporary files
+*.tmp
+*.bak
+*~
