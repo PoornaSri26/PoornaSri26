@@ -6,13 +6,9 @@
     viewBox="0 0 1280 430"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
->
+ xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5ZmQ0NjViNC0yYjJjLTRhYjEtOGE0MC03ZWU4MmMxMDg0MjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEoMGw3lnFfFSnZLUTXZeCMAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDplYmM4YTQ0NS04ZWY2LTQwZTAtOGQ0Zi1iNDk5NmMxOWJjNTRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoBKOE6uayfJ1kVOga6t/A5wAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFgg8DvJ7D4JUwoKFT6V1aRzybGOfspbUGydFDMtt9gcRbykZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaNRhez3rJgj8mvq2neTQZmwAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBui9iHHqRLHM+G0/EfySM2ovPuvuvPgpMqJWiI1put32RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjhZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjlmZDQ2NWI0LTJiMmMtNGFiMS04YTQwLTdlZTgyYzEwODQyMS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmMwOTA2N2JmLWM3Y2EtNDliNC1hZWNiLWFjNjRlNTEyNWZlYXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDwO8nsPglTCgoVPpXVpHPJsY5+yltQbJ0UMy232BxFvKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggKttINEHpzTsLmnIpPfSFd/j/wmi9/yusnxkGqJ26DDyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFgguUXz47Goc/yyTfVMZ0Q4sMLR+CNycY+FF3+Tp1HSo8J0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQOsti1ybc1RD5o8G3j1C5YoneAYnS5vEMgbkU7yQNVaibW16DVsxksxOtzJG6G5Z1XrHupz1qneZbWJDTqmXKUw=</c2pa:manifest></metadata>
 
 <defs>
-
-    <!-- ========================================================
-         BACKGROUND
-         ======================================================== -->
 
     <linearGradient
         id="backgroundGradient"
@@ -26,11 +22,6 @@
         <stop offset="0.5" stop-color="#0B1018"/>
         <stop offset="1" stop-color="#070A0F"/>
     </linearGradient>
-
-
-    <!-- ========================================================
-         MAIN ACCENT (Enhanced with pink touch)
-         ======================================================== -->
 
     <linearGradient
         id="accentGradient"
@@ -46,7 +37,6 @@
         <stop offset="1" stop-color="#FF69B4"/>
     </linearGradient>
 
-
     <linearGradient
         id="terminalGradient"
         x1="80"
@@ -59,11 +49,6 @@
         <stop offset="0.5" stop-color="#FF69B4" stop-opacity="0.05"/>
         <stop offset="1" stop-color="#8B5CF6" stop-opacity="0.03"/>
     </linearGradient>
-
-
-    <!-- ========================================================
-         GRID
-         ======================================================== -->
 
     <pattern
         id="grid"
@@ -79,7 +64,6 @@
         />
     </pattern>
 
-
     <pattern
         id="microGrid"
         width="10"
@@ -94,71 +78,20 @@
         />
     </pattern>
 
-
-    <!-- ========================================================
-         GLOWS
-         ======================================================== -->
-
-    <filter
-        id="glowCyan"
-        x="-100%"
-        y="-100%"
-        width="300%"
-        height="300%"
-    >
-        <feGaussianBlur
-            stdDeviation="7"
-            result="blur"
-        />
-
-        <feMerge>
-            <feMergeNode in="blur"/>
-            <feMergeNode in="SourceGraphic"/>
-        </feMerge>
+    <filter id="glowCyan" x="-100%" y="-100%" width="300%" height="300%">
+        <feGaussianBlur stdDeviation="7" result="blur"/>
+        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-
-    <filter
-        id="glowPink"
-        x="-100%"
-        y="-100%"
-        width="300%"
-        height="300%"
-    >
-        <feGaussianBlur
-            stdDeviation="8"
-            result="blur"
-        />
-
-        <feMerge>
-            <feMergeNode in="blur"/>
-            <feMergeNode in="SourceGraphic"/>
-        </feMerge>
+    <filter id="glowPink" x="-100%" y="-100%" width="300%" height="300%">
+        <feGaussianBlur stdDeviation="8" result="blur"/>
+        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
 
-
-    <filter
-        id="glowSoft"
-        x="-100%"
-        y="-100%"
-        width="300%"
-        height="300%"
-    >
-        <feGaussianBlur
-            stdDeviation="3"
-            result="blur"
-        />
-
-        <feMerge>
-            <feMergeNode in="blur"/>
-            <feMergeNode in="SourceGraphic"/>
-        </feMerge>
+    <filter id="glowSoft" x="-100%" y="-100%" width="300%" height="300%">
+        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-
-
-    <!-- ========================================================
-         RADIAL GLOW (Enhanced with pink)
-         ======================================================== -->
 
     <radialGradient
         id="cyanAura"
@@ -168,574 +101,174 @@
         gradientUnits="userSpaceOnUse"
         gradientTransform="translate(1050 210) rotate(90) scale(190)"
     >
-
-        <stop
-            offset="0"
-            stop-color="#00E5FF"
-            stop-opacity="0.12"
-        />
-
-        <stop
-            offset="0.35"
-            stop-color="#FF69B4"
-            stop-opacity="0.08"
-        />
-
-        <stop
-            offset="0.65"
-            stop-color="#4D7CFE"
-            stop-opacity="0.05"
-        />
-
-        <stop
-            offset="1"
-            stop-color="#00E5FF"
-            stop-opacity="0"
-        />
-
+        <stop offset="0" stop-color="#00E5FF" stop-opacity="0.12"/>
+        <stop offset="0.35" stop-color="#FF69B4" stop-opacity="0.08"/>
+        <stop offset="0.65" stop-color="#4D7CFE" stop-opacity="0.05"/>
+        <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
     </radialGradient>
+
+    <clipPath id="avatarClip">
+        <circle cx="1010" cy="48" r="16"/>
+    </clipPath>
 
 </defs>
 
+<rect width="1280" height="430" fill="url(#backgroundGradient)"/>
+<rect width="1280" height="430" fill="url(#microGrid)"/>
+<rect width="1280" height="430" fill="url(#grid)"/>
 
-<!-- ============================================================
-     BACKGROUND
-     ============================================================ -->
-
-<rect
-    width="1280"
-    height="430"
-    fill="url(#backgroundGradient)"
-/>
-
+<ellipse cx="1040" cy="215" rx="270" ry="210" fill="url(#cyanAura)"/>
+<circle cx="160" cy="70" r="110" fill="#8B5CF6" opacity="0.025"/>
 
 <rect
-    width="1280"
-    height="430"
-    fill="url(#microGrid)"
+    x="24" y="24" width="1232" height="382" rx="18"
+    fill="#FFFFFF" fill-opacity="0.012"
+    stroke="#FFFFFF" stroke-opacity="0.08"
 />
-
-
-<rect
-    width="1280"
-    height="430"
-    fill="url(#grid)"
-/>
-
-
-<!-- ============================================================
-     AMBIENT LIGHT
-     ============================================================ -->
-
-<ellipse
-    cx="1040"
-    cy="215"
-    rx="270"
-    ry="210"
-    fill="url(#cyanAura)"
-/>
-
-
-<circle
-    cx="160"
-    cy="70"
-    r="110"
-    fill="#8B5CF6"
-    opacity="0.025"
-/>
-
-
-<!-- ============================================================
-     OUTER FRAME
-     ============================================================ -->
-
-<rect
-    x="24"
-    y="24"
-    width="1232"
-    height="382"
-    rx="18"
-    fill="#FFFFFF"
-    fill-opacity="0.012"
-    stroke="#FFFFFF"
-    stroke-opacity="0.08"
-/>
-
-
-<!-- ============================================================
-     TOP SYSTEM BAR
-     ============================================================ -->
 
 <g>
-
-    <line
-        x1="58"
-        y1="72"
-        x2="1222"
-        y2="72"
-        stroke="#F5F7FA"
-        stroke-opacity="0.06"
-    />
-
-
-    <!-- System indicator -->
-
-    <circle
-        cx="62"
-        cy="51"
-        r="4"
-        fill="#2DD4BF"
-        filter="url(#glowSoft)"
-    />
-
-
+    <line x1="58" y1="72" x2="1222" y2="72" stroke="#F5F7FA" stroke-opacity="0.06"/>
+    <circle cx="62" cy="51" r="4" fill="#2DD4BF" filter="url(#glowSoft)"/>
     <text
-        x="76"
-        y="55"
+        x="76" y="55"
         fill="#7F8A9A"
         font-family="Inter, Segoe UI, Arial, sans-serif"
-        font-size="11"
-        font-weight="600"
-        letter-spacing="2"
+        font-size="11" font-weight="600" letter-spacing="2"
     >
         SYSTEM ONLINE
     </text>
-
-
+    <g>
+        <circle cx="1010" cy="48" r="18" fill="#0B111A" stroke="#FF69B4" stroke-opacity="0.35" stroke-width="1"/>
+        <g clip-path="url(#avatarClip)">
+            <circle cx="1010" cy="48" r="16" fill="#F5F7FA"/>
+            <circle cx="997" cy="33" r="6.2" fill="#141922"/>
+            <circle cx="1023" cy="33" r="6.2" fill="#141922"/>
+            <ellipse cx="1002.8" cy="46" rx="4.8" ry="6.2" fill="#141922" transform="rotate(-18 1002.8 46)"/>
+            <ellipse cx="1017.2" cy="46" rx="4.8" ry="6.2" fill="#141922" transform="rotate(18 1017.2 46)"/>
+            <circle cx="1003.2" cy="47" r="1.4" fill="#00E5FF"/>
+            <circle cx="1016.8" cy="47" r="1.4" fill="#00E5FF"/>
+            <ellipse cx="1010" cy="54.5" rx="2.3" ry="1.6" fill="#141922"/>
+            <path d="M1010,56.3 Q1006.5,59 1003.8,57.2 M1010,56.3 Q1013.5,59 1016.2,57.2" stroke="#141922" stroke-width="1" fill="none" stroke-linecap="round"/>
+        </g>
+    </g>
     <text
-        x="1085"
-        y="55"
+        x="1215" y="55"
         fill="#394351"
         font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="10"
-        letter-spacing="1"
+        font-size="10" letter-spacing="1"
+        text-anchor="end"
     >
         PORTFOLIO / 2026
     </text>
-
 </g>
 
-
-<!-- ============================================================
-     LEFT CONTENT
-     ============================================================ -->
-
 <g>
-
-    <!-- Small identity label -->
-
     <text
-        x="78"
-        y="116"
+        x="78" y="116"
         fill="#FF69B4"
         font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="11"
-        font-weight="600"
-        letter-spacing="3"
+        font-size="11" font-weight="600" letter-spacing="3"
     >
         SOFTWARE ENGINEER
     </text>
-
-
-    <!-- NAME -->
-
     <text
-        x="75"
-        y="176"
+        x="75" y="176"
         fill="#F5F7FA"
         font-family="Inter, Segoe UI, Arial, sans-serif"
-        font-size="57"
-        font-weight="900"
-        letter-spacing="1"
+        font-size="57" font-weight="900" letter-spacing="1"
     >
         POORNA SRI
     </text>
-
-
-    <!-- Accent line -->
-
-    <rect
-        x="78"
-        y="193"
-        width="250"
-        height="2"
-        rx="1"
-        fill="url(#accentGradient)"
-    />
-
-
-    <!-- HEADLINE -->
-
+    <rect x="78" y="193" width="250" height="2" rx="1" fill="url(#accentGradient)"/>
     <text
-        x="78"
-        y="225"
+        x="78" y="225"
         fill="#7F8A9A"
         font-family="Inter, Segoe UI, Arial, sans-serif"
-        font-size="14"
-        font-weight="500"
-        letter-spacing="0.8"
+        font-size="14" font-weight="500" letter-spacing="0.8"
     >
         FULL STACK ENGINEER  /  AI/ML ENTHUSIAST  /  SYSTEMS BUILDER
     </text>
-
-
-    <!-- ========================================================
-         TERMINAL
-         ======================================================== -->
-
     <rect
-        x="78"
-        y="253"
-        width="690"
-        height="84"
-        rx="10"
+        x="78" y="253" width="690" height="84" rx="10"
         fill="url(#terminalGradient)"
-        stroke="#FF69B4"
-        stroke-opacity="0.14"
+        stroke="#FF69B4" stroke-opacity="0.14"
     />
-
-
-    <!-- Terminal header -->
-
-    <line
-        x1="78"
-        y1="280"
-        x2="768"
-        y2="280"
-        stroke="#F5F7FA"
-        stroke-opacity="0.06"
-    />
-
-
-    <circle
-        cx="96"
-        cy="267"
-        r="4"
-        fill="#FF5F56"
-    />
-
-    <circle
-        cx="111"
-        cy="267"
-        r="4"
-        fill="#FFBD2E"
-    />
-
-    <circle
-        cx="126"
-        cy="267"
-        r="4"
-        fill="#27C93F"
-    />
-
-
+    <line x1="78" y1="280" x2="768" y2="280" stroke="#F5F7FA" stroke-opacity="0.06"/>
+    <circle cx="96" cy="267" r="4" fill="#FF5F56"/>
+    <circle cx="111" cy="267" r="4" fill="#FFBD2E"/>
+    <circle cx="126" cy="267" r="4" fill="#27C93F"/>
     <text
-        x="150"
-        y="271"
+        x="150" y="271"
         fill="#394351"
         font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="9"
-        letter-spacing="1"
+        font-size="9" letter-spacing="1"
     >
         developer@poornasri:~
     </text>
-
-
-    <!-- Terminal command -->
-
     <text
-        x="103"
-        y="307"
+        x="103" y="307"
         fill="#00E5FF"
         font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="13"
-        font-weight="600"
+        font-size="13" font-weight="600"
     >
-
         &gt; stack:
         <tspan fill="#F5F7FA">
             React  ·  TypeScript  ·  Python  ·  Node.js  ·  PyTorch  ·  Docker
         </tspan>
-
     </text>
-
-
-    <!-- Cursor -->
-
-    <rect
-        x="570"
-        y="294"
-        width="7"
-        height="16"
-        fill="#FF69B4"
-    />
-
+    <rect x="697" y="294" width="7" height="16" fill="#FF69B4">
+        <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </rect>
 </g>
-
-
-<!-- ============================================================
-     RIGHT SYSTEM ARCHITECTURE
-     ============================================================ -->
 
 <g transform="translate(1030 215)">
-
-    <!-- Central aura -->
-
-    <circle
-        cx="0"
-        cy="0"
-        r="150"
-        fill="#00E5FF"
-        opacity="0.025"
-    />
-
-
-    <!-- Outer orbital -->
-
-    <circle
-        cx="0"
-        cy="0"
-        r="132"
-        fill="none"
-        stroke="#00E5FF"
-        stroke-opacity="0.10"
-        stroke-width="1"
-        stroke-dasharray="2 10"
-    />
-
-
-    <!-- Middle orbital -->
-
-    <circle
-        cx="0"
-        cy="0"
-        r="98"
-        fill="none"
-        stroke="#FF69B4"
-        stroke-opacity="0.20"
-        stroke-width="1"
-        stroke-dasharray="6 7"
-    />
-
-
-    <!-- Inner orbital -->
-
-    <circle
-        cx="0"
-        cy="0"
-        r="58"
-        fill="none"
-        stroke="#8B5CF6"
-        stroke-opacity="0.20"
-        stroke-width="1"
-    />
-
-
-    <!-- Architecture lines -->
-
-    <g
-        stroke="#00E5FF"
-        stroke-opacity="0.12"
-        stroke-width="1"
-    >
-
+    <circle cx="0" cy="0" r="150" fill="#00E5FF" opacity="0.025"/>
+    <circle cx="0" cy="0" r="132" fill="none" stroke="#00E5FF" stroke-opacity="0.10" stroke-width="1" stroke-dasharray="2 10"/>
+    <circle cx="0" cy="0" r="98" fill="none" stroke="#FF69B4" stroke-opacity="0.20" stroke-width="1" stroke-dasharray="6 7"/>
+    <circle cx="0" cy="0" r="58" fill="none" stroke="#8B5CF6" stroke-opacity="0.20" stroke-width="1"/>
+    <g stroke="#00E5FF" stroke-opacity="0.12" stroke-width="1">
         <line x1="-132" y1="0" x2="-50" y2="0"/>
         <line x1="50" y1="0" x2="132" y2="0"/>
-
         <line x1="0" y1="-132" x2="0" y2="-50"/>
         <line x1="0" y1="50" x2="0" y2="132"/>
-
         <line x1="-92" y1="-92" x2="-35" y2="-35"/>
         <line x1="35" y1="35" x2="92" y2="92"/>
-
     </g>
-
-
-    <!-- Data nodes -->
-
-    <circle
-        cx="98"
-        cy="0"
-        r="5"
-        fill="#00E5FF"
-        filter="url(#glowSoft)"
-    />
-
-    <circle
-        cx="-98"
-        cy="0"
-        r="4"
-        fill="#FF1493"
-        filter="url(#glowPink)"
-    />
-
-    <circle
-        cx="0"
-        cy="-132"
-        r="4"
-        fill="#4D7CFE"
-        filter="url(#glowSoft)"
-    />
-
-
-    <!-- Core -->
-
-    <circle
-        cx="0"
-        cy="0"
-        r="26"
-        fill="#0B111A"
-        stroke="#FF69B4"
-        stroke-opacity="0.25"
-    />
-
-
-    <circle
-        cx="0"
-        cy="0"
-        r="9"
-        fill="#FF69B4"
-        filter="url(#glowPink)"
-    />
-
-
-    <!-- Core rings -->
-
-    <circle
-        cx="0"
-        cy="0"
-        r="38"
-        fill="none"
-        stroke="#FF69B4"
-        stroke-opacity="0.15"
-    />
-
+    <circle cx="98" cy="0" r="5" fill="#00E5FF" filter="url(#glowSoft)"/>
+    <text x="108" y="4" fill="#5FD9E8" font-family="JetBrains Mono, Fira Code, monospace" font-size="9" letter-spacing="1">API</text>
+    <circle cx="-98" cy="0" r="4" fill="#FF1493" filter="url(#glowPink)"/>
+    <text x="-108" y="4" fill="#FF8FC4" font-family="JetBrains Mono, Fira Code, monospace" font-size="9" letter-spacing="1" text-anchor="end">ML</text>
+    <circle cx="0" cy="-132" r="4" fill="#4D7CFE" filter="url(#glowSoft)"/>
+    <text x="0" y="-141" fill="#9AB3FE" font-family="JetBrains Mono, Fira Code, monospace" font-size="9" letter-spacing="1" text-anchor="middle">EDGE</text>
+    <circle cx="0" cy="0" r="26" fill="#0B111A" stroke="#FF69B4" stroke-opacity="0.25"/>
+    <circle cx="0" cy="0" r="9" fill="#FF69B4" filter="url(#glowPink)"/>
+    <circle cx="0" cy="0" r="38" fill="none" stroke="#FF69B4" stroke-opacity="0.15"/>
 </g>
-
-
-<!-- ============================================================
-     LOWER INFORMATION BAR
-     ============================================================ -->
 
 <g>
-
-    <line
-        x1="78"
-        y1="360"
-        x2="1202"
-        y2="360"
-        stroke="#F5F7FA"
-        stroke-opacity="0.06"
-    />
-
-
-    <!-- Status -->
-
-    <circle
-        cx="84"
-        cy="383"
-        r="3"
-        fill="#2DD4BF"
-        filter="url(#glowSoft)"
-    />
-
-
-    <text
-        x="97"
-        y="387"
-        fill="#7F8A9A"
-        font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="10"
-        letter-spacing="1.2"
-    >
+    <line x1="78" y1="360" x2="1202" y2="360" stroke="#F5F7FA" stroke-opacity="0.06"/>
+    <circle cx="84" cy="383" r="3" fill="#2DD4BF" filter="url(#glowSoft)"/>
+    <text x="97" y="387" fill="#7F8A9A" font-family="JetBrains Mono, Fira Code, monospace" font-size="10" letter-spacing="1.2">
         STATUS:
     </text>
-
-
-    <text
-        x="150"
-        y="387"
-        fill="#2DD4BF"
-        font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="10"
-        font-weight="600"
-        letter-spacing="1.2"
-    >
+    <text x="150" y="387" fill="#2DD4BF" font-family="JetBrains Mono, Fira Code, monospace" font-size="10" font-weight="600" letter-spacing="1.2">
         BUILDING THE FUTURE
     </text>
-
-
-    <!-- Location -->
-
-    <text
-        x="490"
-        y="387"
-        fill="#394351"
-        font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="10"
-        letter-spacing="1"
-    >
+    <text x="490" y="387" fill="#394351" font-family="JetBrains Mono, Fira Code, monospace" font-size="10" letter-spacing="1">
         LOCATION
     </text>
-
-
-    <text
-        x="555"
-        y="387"
-        fill="#7F8A9A"
-        font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="10"
-        letter-spacing="1"
-    >
+    <text x="555" y="387" fill="#7F8A9A" font-family="JetBrains Mono, Fira Code, monospace" font-size="10" letter-spacing="1">
         Hyderabad, India
     </text>
-
-
-    <!-- Right-side system metric -->
-
-    <text
-        x="1050"
-        y="387"
-        fill="#394351"
-        font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="9"
-        letter-spacing="1"
-    >
+    <text x="1050" y="387" fill="#394351" font-family="JetBrains Mono, Fira Code, monospace" font-size="9" letter-spacing="1">
         BUILD
     </text>
-
-
-    <text
-        x="1098"
-        y="387"
-        fill="#FF69B4"
-        font-family="JetBrains Mono, Fira Code, monospace"
-        font-size="9"
-        letter-spacing="1"
-    >
+    <text x="1098" y="387" fill="#FF69B4" font-family="JetBrains Mono, Fira Code, monospace" font-size="9" letter-spacing="1">
         ACTIVE
     </text>
-
 </g>
 
-
-<!-- ============================================================
-     CORNER DETAILS
-     ============================================================ -->
-
-<path
-    d="M24 65V42C24 32 32 24 42 24H65"
-    stroke="#FF69B4"
-    stroke-opacity="0.35"
-    stroke-width="1"
-/>
-
-
-<path
-    d="M1215 406H1238C1248 406 1256 398 1256 388V365"
-    stroke="#8B5CF6"
-    stroke-opacity="0.30"
-    stroke-width="1"
-/>
+<path d="M24 65V42C24 32 32 24 42 24H65" stroke="#FF69B4" stroke-opacity="0.35" stroke-width="1"/>
+<path d="M1215 406H1238C1248 406 1256 398 1256 388V365" stroke="#8B5CF6" stroke-opacity="0.30" stroke-width="1"/>
 
 </svg>
