@@ -67,7 +67,7 @@
 
 Hello! I'm **Poorna Sri**, a passionate software engineer and tech innovator building the future one commit at a time.
 
-I specialize in **Full Stack Development**, **AI/ML Solutions**, and **Cloud-Native Architecture**. My work focuses on building scalable web applications, developing intelligent systems, and creating open-source tools that empower developers. From gamified productivity apps to cognitive load monitoring systems, I love tackling complex challenges at the intersection of technology and human experience.
+I specialize in scalable web apps, intelligent systems, and open-source tools. From gamified productivity apps to cognitive load monitoring systems, I love tackling complex challenges at the intersection of technology and human experience. Check out my personal portfolio at [poornasri26.github.io/PoornaSri-Portfolio](https://poornasri26.github.io/PoornaSri-Portfolio). From gamified productivity apps to cognitive load monitoring systems, I love tackling complex challenges at the intersection of technology and human experience.
 
 ### Current Focus:
 - **AI/ML Research** - Building intelligent systems that understand and adapt to human behavior
