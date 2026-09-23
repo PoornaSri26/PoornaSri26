@@ -48,11 +48,11 @@ def create_animated_banner():
         "yellow": (255, 189, 70),
         "red": (255, 95, 86),
         
-        # Rendering Parameters
+        # Rendering Parameters (optimized for GitHub)
         "width": 1280,
         "height": 430,
-        "frames": 50,
-        "duration": 80,  # 80ms per frame (~12.5 FPS)
+        "frames": 30,  # Reduced for smaller file size
+        "duration": 100,  # 100ms per frame (10 FPS)
     }
 
     # ============================================================
@@ -404,7 +404,9 @@ def create_animated_banner():
         append_images=frames[1:],
         duration=config["duration"],
         loop=0,
-        optimize=True
+        optimize=True,
+        quality=85,  # Balance quality and file size
+        method=6  # Maximum compression
     )
 
     print(f"Enhanced animated GIF banner generated: {output_path}")
