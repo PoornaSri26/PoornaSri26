@@ -6,7 +6,7 @@
 
 <br>
 
-<h1>Poorna Sri <img src="assets/name.gif" height="64" align="top" alt="animated" /></h1>
+<h1>Poorna Sri <img src="assets/name.gif" height="64" align="middle" alt="animated" /></h1>
 
 <p>
   <em>Full-Stack Engineer · AI/ML Enthusiast · Systems Builder</em>
