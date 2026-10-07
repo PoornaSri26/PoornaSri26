@@ -7,6 +7,7 @@
 <br>
 
 <h1>Poorna Sri <img src="assets/name.gif" height="78" align="right" alt="animated" /></h1>
+<br>
 
 <p>
   <em>Full-Stack Engineer · AI/ML Enthusiast · Systems Builder</em>
