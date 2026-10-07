@@ -6,7 +6,7 @@
 
 <br>
 
-<h1>Poorna Sri <img src="assets/name.gif" height="32" align="middle" alt="animated" /></h1>
+<h1 style="font-size: 75px;">  Poorna Sri <img src="assets/name.gif" height="100" align="middle" alt="animated" /></h1>
 <br>
 
 <p>
