@@ -45,6 +45,10 @@ Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri
 
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/coderman.gif" alt="coding" width="300" />
+</div>
+
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" alt=""> Projects
@@ -90,6 +94,10 @@ Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri
 <br><br>
 
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/RaghavK16/RaghavK16/master/connected.gif" alt="let's connect" width="300" />
 
 <br><br>
 
