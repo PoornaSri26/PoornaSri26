@@ -3,8 +3,8 @@ on:
   schedule:
     - cron: '0 3 * * *'   # re-grow daily
   workflow_dispatch:
-push:
-  branches: [main]
+  push:
+    branches: [main]
 permissions:
   contents: write
 jobs:
