@@ -70,6 +70,9 @@ jobs:
         if [ -f "assets/banner.svg" ]; then
           git add assets/banner.svg
         fi
+        if [ -f "assets/banner.gif" ]; then
+          git add assets/banner.gif
+        fi
         git diff --staged --quiet || git commit -m "Auto-update profile: $(date '+%Y-%m-%d %H:%M:%S')"
     
     - name: Push changes
