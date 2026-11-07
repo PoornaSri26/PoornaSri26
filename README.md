@@ -14,12 +14,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Full-Stack+Engineer;AI/ML+Enthusiast;Open+Source+Contributor;Cloud+Native+Architect;Tech+Innovator&duration=3000" alt="Typing SVG" />
 </p>
 
-<pre>
-    💼 Full-Stack Engineer · AI/ML Enthusiast
-    🚀 Building scalable web apps & intelligent systems
-    🎮 Gamification · ⛓️ Blockchain · 🌐 Open Source
-    📍 Hyderabad, India
-</pre>
+```js
+const poorna = {
+  role: "Full-Stack Engineer · AI/ML Enthusiast",
+  focus: ["AI/ML research", "gamification", "blockchain", "open source"],
+  code: ["TypeScript", "JavaScript", "Python", "Solidity"],
+  tools: ["React", "Node.js", "FastAPI", "Docker", "AWS"],
+  location: "Hyderabad, India",
+  vibe: "Building the future, one commit at a time"
+}
+```
 
 <p>
 <a href="https://linkedin.com/in/poornasri26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
