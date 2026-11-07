@@ -1,11 +1,5 @@
 <div align="center">
 
-<a href="https://github.com/PoornaSri26">
-  <img src="assets/banner.gif" alt="Poorna Sri Banner" width="100%" />
-</a>
-
-<br>
-
 <h1>Poorna Sri <img src="assets/name.gif" height="60" align="middle" alt="animated" /></h1>
 
 <p><em>Hi, I'm Poorna!</em> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" alt="waving"></p>
