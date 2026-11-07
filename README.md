@@ -22,6 +22,10 @@
 </p>
 
 <p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PoornaSri26.PoornaSri26&style=for-the-badge&color=FF69B4" alt="Visitors" />
+</p>
+
+<p>
 Building scalable web apps, intelligent systems, and open-source tools.
 Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri26.github.io/PoornaSri-Portfolio</a>
 </p>
