@@ -8,6 +8,8 @@
 
 <h1>Poorna Sri <img src="assets/name.gif" height="60" align="middle" alt="animated" /></h1>
 
+<p><em>Hi, I'm Poorna! 👋</em></p>
+
 <p><em>Full-Stack Engineer · AI/ML Enthusiast · Systems Builder</em></p>
 
 <p>
