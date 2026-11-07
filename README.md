@@ -83,6 +83,10 @@ Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri
 
 <br><br>
 
+<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+
+<br><br>
+
 <p><sub>Building the future, one commit at a time. © 2026 Poorna Sri</sub></p>
 
 </div>
