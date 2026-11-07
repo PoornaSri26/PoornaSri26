@@ -8,7 +8,7 @@
 
 <h1>Poorna Sri <img src="assets/name.gif" height="60" align="middle" alt="animated" /></h1>
 
-<p><em>Hi, I'm Poorna! 👋</em></p>
+<p><em>Hi, I'm Poorna!</em> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40" alt="waving"></p>
 
 <p><em>Full-Stack Engineer · AI/ML Enthusiast · Systems Builder</em></p>
 
@@ -47,7 +47,7 @@ Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri
 
 ---
 
-## Projects
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35" alt=""> Projects
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
@@ -93,6 +93,6 @@ Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri
 
 <br><br>
 
-<p><sub>Building the future, one commit at a time. © 2026 Poorna Sri</sub></p>
+<p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt=""> <sub>Building the future, one commit at a time. © 2026 Poorna Sri</sub></p>
 
 </div>
