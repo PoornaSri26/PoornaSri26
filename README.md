@@ -98,3 +98,11 @@ Portfolio: <a href="https://poornasri26.github.io/PoornaSri-Portfolio">poornasri
 <p align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" alt=""> <sub>Building the future, one commit at a time. © 2026 Poorna Sri</sub></p>
 
 </div>
+
+---
+
+<p align="right">
+  <img src="commit-pet.svg" alt="Byte 🐈⬛" width="150">
+  <br>
+  <sub>This is Byte — my little coding companion 💜</sub>
+</p>
